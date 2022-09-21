@@ -14,3 +14,11 @@ Os dados cadastrados dos alunos são: código de matrícula, data de matrícula,
 ## 3.	FERRAMENTAS UTILIZADAS
 
 Para o desenvolvimento deste projeto foram utilizadas as ferramentas: BrModelo e Microsoft SQL Server Management Studio 18
+
+## 4. MODELO CONCEITUAL
+
+![Modelo Conceitual](https://user-images.githubusercontent.com/56164041/191392701-1cdce9f5-6e98-4ced-b218-3d9bb9021fc2.png)
+
+## 5. MODELO LÓGICO
+
+![Modelo Lógico](https://user-images.githubusercontent.com/56164041/191392746-b8a45d69-c5fa-4ee4-9938-db279a776822.png)
